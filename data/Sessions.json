@@ -1,0 +1,30 @@
+{
+   "sessions": {
+      "session_1": {
+         "id": 1,
+         "api_hash": "db16cbf9526f370b15451519346a13fd",
+         "api_id": "21593568",
+         "phone": "+963985564909",
+         "session": "BAFJfeAAlIODFKVwATwK1qB6-Q7v8bjKf6dg27u8ZJsbCtiZodN4aUod622VpTWt-uvEzrL0BP0wr5D3r9gw7_s5ZhShVn4YhaWsDTU70zoE_qcKA_ApvOfHLAtGWkdNh3tWjb7ZumvHRgfgbWmSSb47swSdkAArDumvY06StJifZpe6FHBqqWhR6HqBXzwTZIuohu3KoAq0zF73jBWgm9OLnaYxhFJOYL0sCmaBjQp7pQzlwCMTzD5PnPl2iqB2pxvNSF2rovOOk1G9cbjHQmVXPDFLPitPwdi-YZm0jgSIRTiZH5xLJYhAVqj3cP9Xfcpe313fsHOnaImybJ-yjGv3ywHrJAAAAAFt5KLcAA",
+         "first_name": "\u0633\u0640\u0643\u0631\u0629\ud83d\udc97\ud83c\udf1d",
+         "username": null,
+         "accont_id": 6138667740,
+         "is_block": false,
+         "floodwait_block": false,
+         "timet_block": 0
+      },
+      "session_2": {
+         "id": 2,
+         "api_hash": "e8fa4d638af4c5129686bffb2cae9f99",
+         "api_id": "24158879",
+         "phone": "963998147914",
+         "session": "BAFwop8Axq-hIMdMFDzunTy0U6c5Oy7QGGwcRmyuLMc2xWQPXOG2oyLIGVKvLfEDwInh5fTwkfjN2phaols7OFy0o9ZobTw2FSkXx4SXIyjbzGXQcHPusnyxAT5PuT0SGDmkfU3_K-KBZEdYJVGE2qczLZA5UdwX_WOjXAXxaHuCY8BoN3AlpdbGFBUfXBdc3ImC_Y2195VcyaJfuFN6PZmsKcribTvnAem3vg_4Enrsg-UAVM13DDTmvRQ6o9NlRpIxZ3cQBM5UxCN-SZ-_M-jUC5mqNaGW9Dop3s-OFHSlJAHYdB1wh08wpgSurDB8keN_Qz_oWFGWoPCAhIM_MbngVfoP3gAAAABuHaE1AA",
+         "first_name": "\ud835\udde5 \ud835\uddd4 \ud835\uddd7 \u1d48\u1d49\u1d5b \u32db\ufe0e",
+         "username": "R_AFX",
+         "accont_id": 1847435573,
+         "is_block": false,
+         "floodwait_block": false,
+         "timet_block": 0
+      }
+   }
+}
